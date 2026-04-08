@@ -1,6 +1,6 @@
 # Breast Ultrasound Lesion Classification
 
-This project builds a deep learning pipeline to **segment and classify breast ultrasound images** as *benign, malignant, or normal*. Using the Breast-Lesions-USG dataset, we evaluate whether combining **image features with clinical metadata** (e.g., age and BIRADS score) improves classification performance compared to image-only models.
+This project builds a deep learning pipeline to segment and classify breast ultrasound images as benign, malignant, or normal. Using the Breast-Lesions-USG dataset, we evaluate whether combining **image features with clinical metadata** (e.g., age and BIRADS score) improves classification performance compared to image-only models.
 
 ## Repository Contents
 
