@@ -33,6 +33,7 @@ It should also run on:
 
 ## Section 2: Map of Documentation
 
+```
 DS_4002_Project_3/
 │
 ├── README.md
@@ -53,6 +54,7 @@ DS_4002_Project_3/
     ├── q3_lesion_area.png
     ├── q4_pixel_intensity.png
     ├── cleaned_breast_lesions.csv
+```
 
 ## Section 3: Instructions to Reproduce Results
 
