@@ -73,6 +73,7 @@ pip install pandas numpy scikit-learn torch torchvision pillow matplotlib
 
 1. Download the Breast-Lesions-USG dataset and Breast Lesions USG Images and Masks from the DATA folder
 2. Place the files into the following structure:
+```
 data/
 ├── cleaned_breast_lesions.csv
 ├── images/
@@ -83,6 +84,7 @@ data/
 │   ├── case001_tumor.png
 │   ├── case002_tumor.png
 │   └── ...
+```
 3. Ensure filenames in the CSV match the image and mask filenames exactly
 
 ### Step 4: Clean the Dataset
