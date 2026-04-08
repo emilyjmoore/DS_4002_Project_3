@@ -1,0 +1,257 @@
+Image_filename,Mask_tumor_filename,Age,Tissue_composition,Signs,Symptoms,BIRADS,Shape,Margin,Echogenicity,Posterior_features,Halo,Calcifications,Skin_thickening,Classification
+case001.png,case001_tumor.png,,heterogeneous: predominantly fat,breast scar,family history of breast/ovarian cancer,,irregular,not circumscribed - indistinct,heterogeneous,shadowing,no,no,yes,benign
+case002.png,case002_tumor.png,,homogeneous: fat,not available,not available,,oval,not circumscribed - indistinct,hypoechoic,no,no,no,no,benign
+case003.png,case003_tumor.png,,heterogeneous: predominantly fat,no,nipple discharge,,oval,circumscribed,hyperechoic,no,no,no,no,benign
+case004.png,case004_tumor.png,,homogeneous: fibroglandular,no,no,,round,circumscribed,hypoechoic,no,no,no,no,benign
+case005.png,case005_tumor.png,,homogeneous: fat,nipple retraction&palpable,family history of breast/ovarian cancer,,oval,circumscribed,complex cystic/solid,enhancement,no,no,no,malignant
+case006.png,case006_tumor.png,,heterogeneous: predominantly fat,no,hrt/hormonal contraception,,irregular,not circumscribed - indistinct,heterogeneous,no,no,intraductal,no,benign
+case007.png,case007_tumor.png,,heterogeneous: predominantly fat,palpable,not available,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,shadowing,no,no,no,malignant
+case008.png,case008_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - spiculated&angular&indistinct,hypoechoic,shadowing,no,no,no,malignant
+case009.png,case009_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,irregular,not circumscribed - microlobulated,hypoechoic,no,no,no,no,benign
+case010.png,case010_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,hypoechoic,enhancement,yes,no,no,malignant
+case011.png,case011_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,family history of breast/ovarian cancer,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,no,no,no,malignant
+case012.png,case012_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,hypoechoic,enhancement,yes,no,no,malignant
+case013.png,case013_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - spiculated&angular&indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case014.png,case014_tumor.png,,homogeneous: fibroglandular,palpable,family history of breast/ovarian cancer&hrt/hormonal contraception,,oval,circumscribed,heterogeneous,enhancement,no,no,no,benign
+case015.png,case015_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case016.png,case016_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,shadowing,no,no,no,benign
+case017.png,case017_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case018.png,case018_tumor.png,,heterogeneous: predominantly fat,not available,not available,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case019.png,case019_tumor.png,,homogeneous: fibroglandular,no,not available,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case020.png,case020_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,hypoechoic,enhancement,no,no,no,benign
+case021.png,case021_tumor.png,,homogeneous: fibroglandular,palpable,hrt/hormonal contraception,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case022.png,case022_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case023.png,case023_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case024.png,case024_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,enhancement,yes,no,no,benign
+case025.png,case025_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,heterogeneous,enhancement,no,no,no,benign
+case026.png,case026_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - indistinct,hypoechoic,no,no,in a mass,no,malignant
+case027.png,case027_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,hypoechoic,combined,yes,in a mass,no,malignant
+case028.png,case028_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,hypoechoic,enhancement,no,no,no,benign
+case029.png,case029_tumor.png,,heterogeneous: predominantly fat,no,not available,,irregular,circumscribed,isoechoic,no,no,no,no,benign
+case030.png,case030_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,anechoic,no,no,no,no,benign
+case031.png,case031_tumor.png,,lactating,no,no,,round,circumscribed,hypoechoic,no,yes,no,no,benign
+case032.png,case032_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - microlobulated,hypoechoic,no,no,no,no,malignant
+case033.png,case033_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,isoechoic,no,no,no,no,benign
+case034.png,case034_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,yes,no,no,malignant
+case035.png,case035_tumor.png,,heterogeneous: predominantly fat,no,personal history of breast cancer,,irregular,not circumscribed - spiculated&angular,hypoechoic,shadowing,yes,no,no,malignant
+case036.png,case036_tumor.png,,heterogeneous: predominantly fibroglandular,no,nipple discharge,,oval,circumscribed,hyperechoic,no,no,no,no,benign
+case037.png,case037_tumor.png,,heterogeneous: predominantly fat,palpable,not available,,irregular,circumscribed,hypoechoic,shadowing,no,in a mass,no,benign
+case038.png,case038_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case039.png,case039_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case040.png,case040_tumor.png,,heterogeneous: predominantly fibroglandular,not available,not available,,oval,circumscribed,complex cystic/solid,enhancement,no,in a mass,no,benign
+case041.png,case041_tumor.png,,homogeneous: fibroglandular,no,not available,,irregular,circumscribed,isoechoic,no,no,no,no,benign
+case042.png,case042_tumor.png,,homogeneous: fibroglandular,no,nipple discharge,,round,circumscribed,isoechoic,no,no,no,no,benign
+case043.png,case043_tumor.png,,homogeneous: fibroglandular,no,no,,round,circumscribed,hypoechoic,combined,no,no,no,benign
+case044.png,case044_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - angular,anechoic,no,no,no,no,benign
+case045.png,,,lactating&homogeneous: fibroglandular,not available,not available,,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,no,normal
+case046.png,case046_tumor.png,,homogeneous: fat,no,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,yes,no,no,malignant
+case047.png,case047_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - spiculated&microlobulated&indistinct,hypoechoic,shadowing,no,no,no,benign
+case048.png,case048_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,round,circumscribed,anechoic,enhancement,no,no,no,benign
+case049.png,case049_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case050.png,case050_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,yes,no,no,malignant
+case051.png,case051_tumor.png,,homogeneous: fibroglandular,no,not available,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case052.png,case052_tumor.png,,lactating&heterogeneous: predominantly fibroglandular,not available,no,,irregular,circumscribed,hypoechoic,no,no,no,no,benign
+case053.png,case053_tumor.png,,heterogeneous: predominantly fibroglandular,no,hrt/hormonal contraception,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,shadowing,no,in a mass,no,malignant
+case054.png,case054_tumor.png,,heterogeneous: predominantly fat,no,not available,,irregular,circumscribed,isoechoic,no,no,no,no,benign
+case055.png,case055_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,no,no,no,no,malignant
+case056.png,case056_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,enhancement,no,no,no,benign
+case057.png,case057_tumor.png,,homogeneous: fat,no,not available,,irregular,circumscribed,anechoic,no,no,no,no,benign
+case058.png,case058_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&microlobulated&indistinct,hypoechoic,enhancement,no,indefinable,no,malignant
+case059.png,case059_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case060.png,case060_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case061.png,,,lactating&homogeneous: fibroglandular,no,not available,,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,no,normal
+case062.png,case062_tumor.png,,homogeneous: fibroglandular,no,no,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,no,in a mass,no,benign
+case063.png,case063_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,yes,no,no,malignant
+case064.png,case064_tumor.png,,homogeneous: fibroglandular,no,hrt/hormonal contraception,,oval,circumscribed,anechoic,enhancement,no,no,no,benign
+case065.png,case065_tumor.png,,homogeneous: fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case066.png,case066_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,heterogeneous,no,no,no,no,malignant
+case067.png,case067_tumor.png,,not available,no,no,,irregular,not circumscribed - microlobulated&indistinct,hypoechoic,no,no,no,no,malignant
+case068.png,case068_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case069.png,case069_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,heterogeneous,enhancement,no,no,no,benign
+case070.png,case070_tumor.png,,heterogeneous: predominantly fibroglandular,no,family history of breast/ovarian cancer,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,benign
+case071.png,case071_tumor.png,,heterogeneous: predominantly fibroglandular,no,hrt/hormonal contraception,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case072.png,case072_tumor.png,,not available,not available,not available,,irregular,circumscribed,hypoechoic,no,no,no,no,malignant
+case073.png,case073_tumor.png,,heterogeneous: predominantly fat,breast scar&skin retraction,personal history of breast cancer&family history of breast/ovarian cancer,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,no,indefinable,yes,benign
+case074.png,case074_tumor.png,,not available,no,not available,,irregular,circumscribed,hypoechoic,no,no,no,no,benign
+case075.png,case075_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case076.png,case076_tumor.png,,heterogeneous: predominantly fibroglandular,nipple retraction&palpable,family history of breast/ovarian cancer,,irregular,not circumscribed - spiculated&microlobulated&indistinct,hypoechoic,no,yes,no,no,malignant
+case077.png,case077_tumor.png,,not available,palpable,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case078.png,case078_tumor.png,,not available,not available,not available,,oval,circumscribed,isoechoic,enhancement,no,no,no,benign
+case079.png,case079_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,shadowing,no,no,no,malignant
+case080.png,case080_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,hypoechoic,enhancement,no,no,no,benign
+case081.png,case081_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case082.png,case082_tumor.png,,not available,palpable,hrt/hormonal contraception,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,no,yes,no,no,malignant
+case083.png,case083_tumor.png,,heterogeneous: predominantly fibroglandular,not available,no,,irregular,circumscribed,heterogeneous,no,no,no,no,benign
+case084.png,case084_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,no,no,no,benign
+case085.png,case085_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case086.png,case086_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,heterogeneous,shadowing,yes,no,no,malignant
+case087.png,case087_tumor.png,,heterogeneous: predominantly fat,palpable,hrt/hormonal contraception,,irregular,not circumscribed - indistinct,hypoechoic,no,yes,no,no,malignant
+case088.png,case088_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - microlobulated,hypoechoic,enhancement,no,no,no,malignant
+case089.png,case089_tumor.png,,heterogeneous: predominantly fibroglandular,no,family history of breast/ovarian cancer,,irregular,not circumscribed - spiculated,hypoechoic,no,no,no,no,malignant
+case090.png,case090_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,no,no,no,no,malignant
+case091.png,case091_tumor.png,,heterogeneous: predominantly fat,no,family history of breast/ovarian cancer,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case092.png,case092_tumor.png,,homogeneous: fibroglandular,no,not available,,irregular,not circumscribed - indistinct,heterogeneous,no,no,in a mass,no,benign
+case093.png,case093_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,isoechoic,no,no,no,no,benign
+case094.png,case094_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,no,,irregular,not circumscribed - angular,hypoechoic,no,no,in a mass,no,malignant
+case095.png,case095_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case096.png,case096_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,hypoechoic,shadowing,no,in a mass,no,benign
+case097.png,case097_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case098.png,case098_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case099.png,case099_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - spiculated,hypoechoic,no,no,no,no,malignant
+case100.png,case100_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,heterogeneous,shadowing,no,no,no,benign
+case101.png,case101_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - indistinct,heterogeneous,shadowing,no,in a mass,no,malignant
+case102.png,case102_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,heterogeneous,shadowing,yes,no,no,malignant
+case103.png,case103_tumor.png,,heterogeneous: predominantly fat,nipple retraction,no,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,no,no,no,malignant
+case104.png,case104_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - microlobulated&indistinct,hypoechoic,no,no,no,no,benign
+case105.png,case105_tumor.png,,heterogeneous: predominantly fat,palpable,not available,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,shadowing,yes,in a mass,no,malignant
+case106.png,case106_tumor.png,,heterogeneous: predominantly fat,skin retraction&palpable,no,,irregular,not circumscribed - angular&microlobulated,hypoechoic,shadowing,no,no,no,malignant
+case107.png,case107_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,no,no,no,malignant
+case108.png,case108_tumor.png,,homogeneous: fibroglandular,no,not available,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case109.png,case109_tumor.png,,homogeneous: fat,palpable,no,,irregular,not circumscribed - spiculated&angular&microlobulated&indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case110.png,case110_tumor.png,,homogeneous: fibroglandular,no,family history of breast/ovarian cancer&hrt/hormonal contraception,,oval,circumscribed,anechoic,enhancement,no,no,no,benign
+case111.png,case111_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,heterogeneous,no,no,no,no,malignant
+case112.png,case112_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - microlobulated,hypoechoic,no,no,no,no,malignant
+case113.png,case113_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,shadowing,yes,no,yes,malignant
+case114.png,case114_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,not circumscribed - indistinct,hypoechoic,no,no,in a mass,no,malignant
+case115.png,case115_tumor.png,,homogeneous: fat,no,not available,,irregular,not circumscribed - indistinct,heterogeneous,no,yes,no,no,benign
+case116.png,case116_tumor.png,,heterogeneous: predominantly fat,palpable,family history of breast/ovarian cancer,,oval,not circumscribed - indistinct,heterogeneous,no,no,no,no,benign
+case117.png,case117_tumor.png,,heterogeneous: predominantly fibroglandular,peau d`orange&palpable,family history of breast/ovarian cancer,,irregular,not circumscribed - microlobulated,heterogeneous,no,no,no,yes,malignant
+case118.png,case118_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case119.png,case119_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - spiculated&microlobulated&indistinct,hypoechoic,no,no,no,no,benign
+case120.png,case120_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - indistinct,hypoechoic,no,no,no,no,benign
+case121.png,case121_tumor.png,,heterogeneous: predominantly fat,no,no,,round,not circumscribed - microlobulated&indistinct,hypoechoic,no,no,no,no,malignant
+case122.png,case122_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,not circumscribed - microlobulated&indistinct,hypoechoic,no,no,no,no,benign
+case123.png,case123_tumor.png,,homogeneous: fat,no,no,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case124.png,case124_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case125.png,case125_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,no,no,no,no,malignant
+case126.png,case126_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,enhancement,no,no,no,benign
+case127.png,case127_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,no,no,no,no,malignant
+case128.png,case128_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,heterogeneous,enhancement,yes,no,no,malignant
+case129.png,case129_tumor.png,,heterogeneous: predominantly fat,not available,not available,,irregular,not circumscribed - angular&microlobulated&indistinct,hypoechoic,no,no,no,no,benign
+case130.png,case130_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,no,yes,no,no,malignant
+case131.png,case131_tumor.png,,not available,no,no,,irregular,circumscribed,heterogeneous,no,no,no,no,benign
+case132.png,case132_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,not circumscribed - indistinct,hypoechoic,shadowing,no,no,no,malignant
+case133.png,case133_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,no,no,no,no,malignant
+case134.png,case134_tumor.png,,not available,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case135.png,case135_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,enhancement,no,no,no,benign
+case136.png,case136_tumor.png,,heterogeneous: predominantly fat,no,not available,,round,circumscribed,hyperechoic,no,no,no,no,benign
+case137.png,case137_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case138.png,case138_tumor.png,,homogeneous: fat,breast scar,personal history of breast cancer,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,shadowing,no,no,yes,benign
+case139.png,case139_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case140.png,case140_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,anechoic,no,no,no,no,benign
+case141.png,case141_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - spiculated&angular&indistinct,anechoic,shadowing,no,no,yes,benign
+case142.png,case142_tumor.png,,homogeneous: fat,no,no,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case143.png,case143_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - spiculated&indistinct,heterogeneous,no,no,in a mass,no,benign
+case144.png,case144_tumor.png,,heterogeneous: predominantly fat,warmth&palpable,no,,oval,not circumscribed - indistinct,complex cystic/solid,no,no,no,no,malignant
+case145.png,case145_tumor.png,,heterogeneous: predominantly fat,no,not available,,irregular,not circumscribed - indistinct,heterogeneous,no,no,no,no,malignant
+case146.png,case146_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,isoechoic,combined,no,no,no,benign
+case147.png,case147_tumor.png,,homogeneous: fat,redness&warmth&palpable,no,,irregular,not circumscribed - microlobulated&indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case148.png,case148_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,hypoechoic,enhancement,yes,no,no,malignant
+case149.png,case149_tumor.png,,heterogeneous: predominantly fat,skin retraction&palpable,no,,irregular,not circumscribed - spiculated&angular&microlobulated&indistinct,hypoechoic,shadowing,yes,no,yes,malignant
+case150.png,case150_tumor.png,,not available,not available,not available,,irregular,not circumscribed - spiculated&angular&indistinct,hypoechoic,combined,yes,no,no,malignant
+case151.png,case151_tumor.png,,heterogeneous: predominantly fibroglandular,no,nipple discharge&family history of breast/ovarian cancer,,oval,circumscribed,hyperechoic,no,no,no,no,benign
+case152.png,case152_tumor.png,,homogeneous: fibroglandular,palpable,no,,oval,not circumscribed - indistinct,hyperechoic,no,no,no,no,benign
+case153.png,case153_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - microlobulated&indistinct,heterogeneous,no,no,in a mass,no,malignant
+case154.png,case154_tumor.png,,heterogeneous: predominantly fat,palpable,not available,,irregular,not circumscribed - spiculated&angular&microlobulated&indistinct,hypoechoic,no,no,no,no,malignant
+case155.png,case155_tumor.png,,not available,not available,not available,,oval,circumscribed,heterogeneous,enhancement,no,no,no,benign
+case156.png,case156_tumor.png,,heterogeneous: predominantly fat,no,not available,,irregular,circumscribed,anechoic,enhancement,no,no,no,benign
+case157.png,case157_tumor.png,,heterogeneous: predominantly fibroglandular,redness&warmth&palpable,not available,,irregular,circumscribed,heterogeneous,no,yes,no,yes,benign
+case158.png,case158_tumor.png,,heterogeneous: predominantly fibroglandular,no,hrt/hormonal contraception,,irregular,not circumscribed - spiculated&microlobulated&indistinct,hypoechoic,no,yes,no,no,malignant
+case159.png,case159_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case160.png,case160_tumor.png,,heterogeneous: predominantly fat,not available,not available,,irregular,not circumscribed - angular&indistinct,heterogeneous,combined,no,in a mass,no,malignant
+case161.png,case161_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case162.png,case162_tumor.png,,lactating&homogeneous: fibroglandular,palpable,family history of breast/ovarian cancer,,irregular,not circumscribed - indistinct,heterogeneous,shadowing,yes,no,no,benign
+case163.png,case163_tumor.png,,not available,not available,not available,,oval,circumscribed,isoechoic,no,no,no,no,benign
+case164.png,case164_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - spiculated,heterogeneous,shadowing,no,in a mass,no,malignant
+case165.png,case165_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,enhancement,no,no,no,benign
+case166.png,case166_tumor.png,,not available,no,no,,irregular,not circumscribed - angular&indistinct,heterogeneous,no,no,no,no,benign
+case167.png,case167_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hyperechoic,no,no,no,no,benign
+case168.png,case168_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case169.png,case169_tumor.png,,homogeneous: fat,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case170.png,case170_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,combined,no,no,no,malignant
+case171.png,case171_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,shadowing,no,no,no,benign
+case172.png,case172_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,no,yes,no,no,malignant
+case173.png,case173_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - indistinct,hypoechoic,no,no,no,no,malignant
+case174.png,case174_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - indistinct,heterogeneous,no,no,no,no,malignant
+case175.png,case175_tumor.png,,heterogeneous: predominantly fat,redness&warmth,nipple discharge,,irregular,not circumscribed - indistinct,hypoechoic,no,no,no,yes,benign
+case176.png,case176_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,hrt/hormonal contraception,,irregular,not circumscribed - spiculated&angular&microlobulated&indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case177.png,case177_tumor.png,,heterogeneous: predominantly fat,no,not available,,round,circumscribed,hypoechoic,no,no,no,no,benign
+case178.png,case178_tumor.png,,heterogeneous: predominantly fat,no,not available,,irregular,not circumscribed - angular,heterogeneous,no,no,in a mass,no,benign
+case179.png,case179_tumor.png,,heterogeneous: predominantly fibroglandular,no,family history of breast/ovarian cancer,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,benign
+case180.png,case180_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,circumscribed,hypoechoic,no,yes,no,no,benign
+case181.png,case181_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case182.png,case182_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,no,,round,not circumscribed - microlobulated,hypoechoic,no,no,no,no,benign
+case183.png,case183_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case184.png,case184_tumor.png,,homogeneous: fibroglandular,no,not available,,round,circumscribed,hypoechoic,no,no,no,no,benign
+case185.png,case185_tumor.png,,not available,not available,not available,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case186.png,case186_tumor.png,,homogeneous: fibroglandular,no,not available,,irregular,circumscribed,hyperechoic,shadowing,no,no,no,benign
+case187.png,case187_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - indistinct,heterogeneous,no,no,no,no,benign
+case188.png,case188_tumor.png,,heterogeneous: predominantly fibroglandular,no,hrt/hormonal contraception,,oval,circumscribed,hypoechoic,enhancement,no,no,no,benign
+case189.png,case189_tumor.png,,heterogeneous: predominantly fat,no,no,,oval,not circumscribed - indistinct,hypoechoic,no,no,no,no,benign
+case190.png,case190_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - microlobulated,hypoechoic,no,no,no,no,malignant
+case191.png,case191_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,anechoic,no,no,no,no,benign
+case192.png,case192_tumor.png,,not available,not available,not available,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case193.png,case193_tumor.png,,not available,no,no,,round,not circumscribed - angular&indistinct,heterogeneous,no,no,no,yes,benign
+case194.png,case194_tumor.png,,heterogeneous: predominantly fat,no,breast injury,,round,circumscribed,hyperechoic,enhancement,no,no,no,benign
+case195.png,case195_tumor.png,,homogeneous: fat,no,not available,,irregular,not circumscribed - spiculated&angular,heterogeneous,no,yes,no,no,malignant
+case196.png,case196_tumor.png,,lactating&heterogeneous: predominantly fat,no,not available,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case197.png,case197_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case198.png,case198_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - microlobulated&indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case199.png,case199_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case200.png,case200_tumor.png,,homogeneous: fibroglandular,palpable,hrt/hormonal contraception,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case201.png,case201_tumor.png,,heterogeneous: predominantly fat,not available,not available,,irregular,circumscribed,hypoechoic,no,yes,no,no,benign
+case202.png,case202_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case203.png,case203_tumor.png,,homogeneous: fibroglandular,no,hrt/hormonal contraception,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case204.png,case204_tumor.png,,not available,no,not available,,round,circumscribed,isoechoic,no,no,no,no,benign
+case205.png,case205_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,no,no,no,no,malignant
+case206.png,case206_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,heterogeneous,enhancement,yes,no,no,malignant
+case207.png,case207_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case208.png,case208_tumor.png,,homogeneous: fibroglandular,no,not available,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case209.png,,,heterogeneous: predominantly fat,no,not available,,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,no,normal
+case210.png,case210_tumor.png,,heterogeneous: predominantly fat,no,no,,round,circumscribed,heterogeneous,no,no,no,no,benign
+case211.png,case211_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - indistinct,hypoechoic,no,yes,no,no,malignant
+case212.png,case212_tumor.png,,heterogeneous: predominantly fat,skin retraction&palpable,nipple discharge,,irregular,not circumscribed - spiculated&microlobulated&indistinct,hypoechoic,shadowing,yes,no,yes,malignant
+case213.png,,,heterogeneous: predominantly fat,no,not available,,not applicable,not applicable,not applicable,not applicable,not applicable,not applicable,no,normal
+case214.png,case214_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,circumscribed,anechoic,enhancement,no,no,no,benign
+case215.png,case215_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,no,,irregular,not circumscribed - microlobulated,heterogeneous,no,no,no,no,benign
+case216.png,case216_tumor.png,,homogeneous: fat,palpable&breast scar,family history of breast/ovarian cancer,,oval,circumscribed,anechoic,enhancement,no,no,yes,benign
+case217.png,case217_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - microlobulated,heterogeneous,no,no,no,no,benign
+case218.png,case218_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,hypoechoic,shadowing,yes,no,yes,malignant
+case219.png,case219_tumor.png,,heterogeneous: predominantly fat,palpable,family history of breast/ovarian cancer&hrt/hormonal contraception,,irregular,not circumscribed - angular&microlobulated&indistinct,hypoechoic,no,no,no,no,malignant
+case220.png,case220_tumor.png,,homogeneous: fat,no,no,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,benign
+case221.png,case221_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case222.png,case222_tumor.png,,not available,no,family history of breast/ovarian cancer,,oval,circumscribed,complex cystic/solid,no,no,no,no,benign
+case223.png,case223_tumor.png,,heterogeneous: predominantly fibroglandular,no,family history of breast/ovarian cancer,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case224.png,case224_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,no,,oval,circumscribed,anechoic,enhancement,no,no,no,benign
+case225.png,case225_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,hrt/hormonal contraception,,irregular,not circumscribed - angular&indistinct,heterogeneous,no,yes,no,no,malignant
+case226.png,case226_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - microlobulated,hypoechoic,no,no,no,no,malignant
+case227.png,case227_tumor.png,,homogeneous: fat,palpable,no,,irregular,not circumscribed - spiculated&angular&indistinct,hypoechoic,shadowing,yes,no,no,malignant
+case228.png,case228_tumor.png,,homogeneous: fibroglandular,no,nipple discharge,,irregular,not circumscribed - spiculated,heterogeneous,no,no,in a mass,no,malignant
+case229.png,case229_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case230.png,case230_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,shadowing,yes,in a mass,no,malignant
+case231.png,case231_tumor.png,,homogeneous: fibroglandular,no,not available,,oval,circumscribed,isoechoic,no,no,no,no,benign
+case232.png,case232_tumor.png,,not available,no,no,,oval,circumscribed,isoechoic,enhancement,no,no,no,benign
+case233.png,case233_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,enhancement,yes,no,no,malignant
+case234.png,case234_tumor.png,,heterogeneous: predominantly fibroglandular,not available,not available,,irregular,not circumscribed - angular&indistinct,hypoechoic,no,no,no,no,malignant
+case235.png,case235_tumor.png,,homogeneous: fibroglandular,no,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case236.png,case236_tumor.png,,heterogeneous: predominantly fat,no,not available,,oval,circumscribed,hyperechoic,no,no,no,no,benign
+case237.png,case237_tumor.png,,heterogeneous: predominantly fibroglandular,no,not available,,oval,circumscribed,anechoic,enhancement,no,no,no,benign
+case238.png,case238_tumor.png,,heterogeneous: predominantly fibroglandular,no,no,,irregular,not circumscribed - spiculated,hypoechoic,no,yes,no,no,malignant
+case239.png,case239_tumor.png,,not available,not available,not available,,irregular,not circumscribed - indistinct,hypoechoic,combined,yes,no,no,malignant
+case240.png,case240_tumor.png,,lactating&homogeneous: fibroglandular,no,not available,,oval,not circumscribed - indistinct,hypoechoic,shadowing,no,no,no,benign
+case241.png,case241_tumor.png,,homogeneous: fibroglandular,no,no,,round,circumscribed,heterogeneous,no,no,no,no,benign
+case242.png,case242_tumor.png,,homogeneous: fibroglandular,no,not available,,oval,circumscribed,heterogeneous,no,no,no,no,benign
+case243.png,case243_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,heterogeneous,shadowing,yes,no,no,malignant
+case244.png,case244_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - microlobulated&indistinct,hypoechoic,no,no,in a mass,no,malignant
+case245.png,case245_tumor.png,,not available,not available,not available,,irregular,not circumscribed - angular&indistinct,heterogeneous,enhancement,no,no,no,malignant
+case246.png,case246_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - angular&indistinct,hypoechoic,shadowing,no,no,no,benign
+case247.png,case247_tumor.png,,homogeneous: fat,palpable,family history of breast/ovarian cancer,,irregular,not circumscribed - spiculated&indistinct,hypoechoic,no,yes,in a mass,no,malignant
+case248.png,case248_tumor.png,,homogeneous: fibroglandular,palpable,no,,irregular,not circumscribed - spiculated&microlobulated&indistinct,hypoechoic,no,no,in a mass,no,malignant
+case249.png,case249_tumor.png,,not available,palpable,no,,irregular,not circumscribed - microlobulated&indistinct,complex cystic/solid,no,yes,in a mass,no,malignant
+case250.png,case250_tumor.png,,not available,no,no,,irregular,not circumscribed - indistinct,heterogeneous,no,no,no,no,malignant
+case251.png,case251_tumor.png,,heterogeneous: predominantly fat,palpable,no,,irregular,not circumscribed - angular&microlobulated,hypoechoic,no,no,no,yes,malignant
+case252.png,case252_tumor.png,,homogeneous: fibroglandular,palpable,no,,oval,circumscribed,hypoechoic,no,no,no,no,benign
+case253.png,case253_tumor.png,,homogeneous: fat,palpable&breast scar,family history of breast/ovarian cancer,,oval,circumscribed,anechoic,enhancement,no,no,yes,benign
+case254.png,case254_tumor.png,,heterogeneous: predominantly fat,no,no,,irregular,not circumscribed - microlobulated&indistinct,hypoechoic,shadowing,no,no,no,malignant
+case255.png,case255_tumor.png,,heterogeneous: predominantly fibroglandular,palpable,family history of breast/ovarian cancer,,irregular,not circumscribed - microlobulated&indistinct,heterogeneous,shadowing,no,intraductal,no,malignant
+case256.png,case256_tumor.png,,homogeneous: fibroglandular,palpable,hrt/hormonal contraception,,oval,circumscribed,heterogeneous,no,no,no,no,benign
