@@ -138,5 +138,4 @@ This project demonstrates that:
 
 - Incorporate U-Net segmentation into classification
 - Use advanced architectures (e.g., EfficientNet)
-- Apply data augmentation and class balancing
 - Optimize hyperparameters to reach ≥88% accuracy
